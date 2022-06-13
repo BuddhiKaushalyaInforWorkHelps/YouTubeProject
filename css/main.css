@@ -344,7 +344,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url(../Girls/BackgroundP/FB_IMG_1653879954655.jpg);
+	background-image: url(../IG/BackgroundP/FB_IMG_1653879954655.jpg);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -856,7 +856,7 @@ ul.list-default li {
 @media only screen and (min-width: 1020px) {
 .banner{
 	min-height:100%;
-	background-image: url(../Girls/BackgroundP/peakpx\ \(1\).jpg);
+	background-image: url(../IG/BackgroundP/peakpx\ \(1\).jpg);
 }
 }
 @media only screen and (min-width: 780px) {
